@@ -1,0 +1,196 @@
+C:\Users\Ricardo\source\repos\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Ricardo\source\repos\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\Ricardo\source\repos\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Splash.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Menu.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Login.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.pdb
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Asignacion.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Consultar.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Nomina.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Horas.resources
+C:\Users\Ricardo\source\repos\Nomina\Nomina\obj\Debug\Nomina.Resumen.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Asignacion.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Comprobante.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Consultar.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Splash.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Horas.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Menu.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Login.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Nomina.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Resumen.resources
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\pc\Desktop\Ricardo\Nomina\Actualizado\Intento 1\Nomina\Nomina\obj\Debug\Nomina.pdb
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\EnvDTE.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\stdole.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Asignacion.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Comprobante.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Consultar.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Splash.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Horas.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Menu.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Login.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Report.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.Resumen.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\RdlCompile.cache
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\RdlCompile.compiled
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csproj.CopyComplete
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.pdb
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.CalculoNomina.resources
+C:\Users\Ricardo\Downloads\Intento 1\Nomina\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\EnvDTE.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\stdole.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Asignacion.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Comprobante.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Consultar.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Splash.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Horas.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Menu.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Login.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.CalculoNomina.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Report.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.Resumen.resources
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\RdlCompile.cache
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\RdlCompile.compiled
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.pdb
+C:\Users\Ricardo\source\repos\Nomina_Final_CSharp\Nomina\Nomina\obj\Debug\Nomina.AboutBox1.resources
